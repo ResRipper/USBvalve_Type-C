@@ -35,7 +35,7 @@ This repo only contains information about the board itself, please check [USBval
 
     - Cut the extra length if you like
 
-    ![](./pics/OLED.jpeg)
+    ![](./pics/oled.jpeg)
 
 5. Solder the USB A port to the board
 
